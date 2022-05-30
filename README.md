@@ -1,6 +1,6 @@
-**jwhazy** *(also known as jacksta)*
+<h1 align="center">jwhazy</h1>
 
-
+https://jacksta.dev/
 
 ![ghstats](https://github-readme-stats.vercel.app/api?username=jwhazy&theme=dark&show_icons=true)
 
