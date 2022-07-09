@@ -1,4 +1,6 @@
-<h1 align="center">jwhazy</h1>
+<h1 align="center">jacksta</h1>
+also known as jwhazy
+
 
 https://jacksta.dev/
 
